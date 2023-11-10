@@ -1,0 +1,8 @@
+main{
+    padding: 10px;
+    float: right;
+    width: calc(100% - 230px);
+}
+td{
+    /* padding: px; */
+}

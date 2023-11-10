@@ -1,0 +1,9 @@
+.btnFullScreen{
+    background-color: red;
+}
+
+.linksHeader{
+    text-decoration: none;
+    margin: 0px 10px;
+    cursor: pointer;
+}

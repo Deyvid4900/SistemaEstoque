@@ -1,0 +1,30 @@
+.divGrafico{
+    flex-wrap: wrap;
+    width: 100%;
+}
+.content{
+    margin: 0 auto;
+    /* background-color: red; */
+    width: 75%;
+    float: right;
+}
+.sideBar{
+    position: relative;
+    width: 230px;
+    height: 100vh;
+    background-color: #eeee;
+    display: flex;
+    flex-direction: column;
+}
+ul{
+    padding: 10px;
+    margin: 10px;
+}
+li{
+    list-style: none;
+    margin-top: 20px;
+}
+li a {
+    
+    text-decoration: none;
+}
